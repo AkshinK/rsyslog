@@ -6,7 +6,7 @@ Rsyslog - what is it?
 [![Total Alerts](https://img.shields.io/lgtm/alerts/g/rsyslog/rsyslog.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/rsyslog/rsyslog/alerts/)
 
 Rsyslog is a **r**ocket-fast **sys**tem for **log** processing.
-
+Testing purposes.
 It offers high-performance, great security features and a modular design.
 While it started as a regular syslogd, rsyslog has evolved into a kind of swiss
 army knife of logging, being able to accept inputs from a wide variety of sources,
