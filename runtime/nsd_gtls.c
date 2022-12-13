@@ -808,7 +808,7 @@ gtlsInitSession(nsd_gtls_t *pThis)
 	}
 #	endif
 
-	/* avoid calling all the priority functions, since the defaults are adequate. */
+	/* let's avoid calling all the priority functions, since the defaults are adequate. */
 	CHKgnutls(gnutls_credentials_set(pThis->sess, GNUTLS_CRD_CERTIFICATE, pThis->xcred));
 
 	/* check for anon authmode */
